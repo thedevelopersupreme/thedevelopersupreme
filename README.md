@@ -29,9 +29,9 @@ I enjoy working with a wide range of technologies and tools. Here are some of my
 I believe in lifelong learning, and currently, I'm exploring: <br/> <br/>
 #1 React Native and ReactJS <br/> 
 #2 Vue JS <br/>
-#3 FireBase <br/>
+#3 FireBase <br/> <br/>
 🤝 Let's Connect <br/>
-I'm always excited to connect with fellow developers, share ideas, and collaborate on exciting projects. Feel free to reach out to me via email or connect on social media. <br/> <br/>
+I'm always excited to connect with fellow developers, share ideas, and collaborate on exciting projects. Feel free to reach out to me via email or connect on social media. <br/>
 
 🙏 Thanks for visiting! <br/>
 Thank you for taking the time to explore my GitHub profile. If you have any questions, suggestions, or just want to chat about JavaScript, don't hesitate to reach out. Happy coding! 🚀✨ <br/>
