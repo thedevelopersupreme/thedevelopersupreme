@@ -23,7 +23,9 @@ I enjoy working with a wide range of technologies and tools. Here are some of my
 🛢️ Cloud Services (AWS, Google Cloud) <br/>
 🧪 Testing (Jest, Mocha) <br/>
 📦 Package Managers (npm, yarn) <br/>
-🔥 Featured Projects <br/>
+🔥 Creating short motion graphics using blender <br/>
+
+📸 Featured Projects <br/>
 
 🌱 Currently Learning <br/>
 I believe in lifelong learning, and currently, I'm exploring: <br/> <br/>
